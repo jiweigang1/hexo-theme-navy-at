@@ -1,0 +1,39 @@
+menu:
+  product: 产品中心
+  about: 关于我们
+
+index:
+  get_started: 开始使用
+
+page:
+  contents: 目录
+  back_to_top: 回到顶部
+  improve: 改进本文
+  prev: 上一页
+  next: 下一页
+  last_updated: 上次更新：%s
+
+sidebar:
+  product:
+    concepts: 核心概念
+    architecture: 监控架构
+    transaction: 事务
+    transactionGroup: 事务组
+    background: 后台任务
+    slow: 慢事务
+    baseline: 动态基线
+    interface: 业务接口
+    alert: 告警
+    endtoendtime: 端到端延迟时间
+    infopoint: 业务指标
+    externalServices: 外部服务
+    db: 数据库
+    Agent: Agent 自监控
+    JVM: JVM
+    metric: 性能指标库
+    memory: 内存
+    autoleak: 动态内存泄露侦测
+    objectTracing: 对象实例追踪
+    customMemoryStructure: 自定义数据结构监控
+    
+   

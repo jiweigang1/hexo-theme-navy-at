@@ -1,0 +1,75 @@
+menu:
+  product: 产品中心
+  university: 课堂
+  download: 下载
+  licence: Licence申请
+  about: 关于我们
+
+index:
+  get_started: 开始使用
+
+page:
+  contents: 目录
+  back_to_top: 回到顶部
+  improve: 改进本文
+  prev: 上一页
+  next: 下一页
+  last_updated: 上次更新：%s
+
+sidebar:
+  product:
+    concepts: 核心概念
+    architecture: 监控架构
+    nodemove: 监控架构动态设置
+    transaction: 事务
+    btTrace: 跨应用追踪
+    transactionThreshold: 事务阈值
+    transactionGroup: 事务组
+    background: 后台任务
+    quartile: 分位值
+    customBtSetting: 自定义事物
+    error: 错误
+    slow: 慢事务
+    baseline: 动态基线
+    interface: 业务接口
+    logAnalytics: 日志追溯
+    alert: 告警
+    action: 动作
+    threadDump: Thread Dump
+    actionHttp: HTTP 请求动作
+    actionDiagnose: 事物诊断动作
+    actionEmail: 邮件通知
+    email: 邮件模板
+    http: HTTP请求模板
+    emailSetting: 邮件 短信设置
+    endtoendtime: 端到端延迟时间
+    infopoint: 业务指标
+    externalServices: 外部服务
+    resolveBackend: 人工关联外部服务
+    backendSetting: 外部服务粒度控制
+    customBackendSetting: 自定义外部服务
+    db: 数据库
+    Agent: Agent 自监控
+    JVM: JVM
+    JMX: JMX
+    metric: 性能指标库
+    scalability: 负载分析
+    correlation: 相关性分析
+    memory: 内存
+    autoleak: 动态内存泄露侦测
+    objectTracing: 对象实例追踪
+    customMemoryStructure: 自定义数据结构监控
+    API: 报表API
+  university:
+    concepts: 重要课程
+    video: 视频教程
+  download:
+    concepts: 下载中心
+    downloadCentre: 下载
+    appServerInstall: App Server 安装
+    appServerAgentInstall: App Server Agent 安装
+    tomcat: Tomcat
+    glassfish: Glassfish
+    
+    
+   
