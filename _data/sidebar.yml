@@ -1,0 +1,53 @@
+product:
+  concepts:
+    architecture: index.html
+    nodemove: nodemove.html
+    transaction: transaction.html
+    -btTrace: bt-trace.html
+    -transactionThreshold: transaction-threshold.html
+    -transactionGroup: transaction-group.html
+    -background: background.html
+    -quartile: quartile.html
+    -customBtSetting: custom-bt-setting.html
+    slow: slow.html
+    error: error.html
+    baseline: baseline.html
+    interface: interface.html
+    logAnalytics: log_analytics.html
+    alert: alert.html
+    -action: action.html
+    --threadDump: thread-dump.html
+    --actionHttp: action-http.html
+    --actionEmail: action-email.html
+    --actionDiagnose: action-diagnose.html
+    -email: email.html
+    -http: http.html
+    -emailSetting: email-setting.html
+    endtoendtime: endtoendtime.html
+    infopoint: infopoint.html
+    externalServices: external-services.html
+    -resolveBackend: resolve-backend.html
+    -backendSetting: backend-setting.html
+    -customBackendSetting: custom-backend-setting.html
+    db: db.html
+    Agent: agent.html
+    JVM: jvm.html
+    JMX: jmx.html
+    metric: metric.html
+    scalability: scalability.html
+    correlation: correlation.html
+    memory: memory.html
+    autoleak: autoleak.html
+    objectTracing: object-tracing.html
+    customMemoryStructure: custom-memory-structure.html
+    API: api.html
+university:
+  concepts:
+    video: index.html
+download:
+  concepts:
+    downloadCentre: index.html
+    appServerInstall: app-server-install.html
+    appServerAgentInstall: tomcat.html
+    -tomcat: tomcat.html
+    -glassfish: glassfish.html
